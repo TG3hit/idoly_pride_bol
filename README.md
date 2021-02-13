@@ -2,11 +2,14 @@
 汉化IDOLY PRIDE Beginning of Lodestar漫画。
 
 ## 如何阅读该漫画 ##
-1. 将本项目克隆到本地；
-2. 安装 MarkdownPad2 [MarkdownPad2](http://markdownpad.com/download.html)；
-3. 安装 Awesomium sdk [Awesomium sdk](http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe "awesomium sdk")；
-	- 安装 Awesomium sdk 后 MarkdownPad 才能实时渲染md文件；
-4. 直接打开每一集目录下对应的文件，即可查看配有汉化文字的漫画。
+- 在线观看
+	1. 直接浏览每个目录对应的md文件
+- 本地观看
+	1. 将本项目克隆到本地；
+	2. 安装 MarkdownPad2 [MarkdownPad2](http://markdownpad.com/download.html)；
+	3. 安装 Awesomium sdk [Awesomium sdk](http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe "awesomium sdk")；
+		- 安装 Awesomium sdk 后 MarkdownPad 才能实时渲染md文件；
+	4. 直接打开每一集目录下对应的md文件，即可查看配有汉化文字的漫画。
 
 
 ![](preview.png)
