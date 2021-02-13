@@ -8,6 +8,9 @@
 	- 安装 Awesomium sdk 后 MarkdownPad 才能实时渲染md文件；
 4. 直接打开每一集目录下对应的文件，即可查看配有汉化文字的漫画。
 
+
+![](preview.png)
+
 <img src="https://github.com/TG3hit/idoly_pride_bol/blob/main/%E9%A2%84%E8%A7%88.png?raw=true">
 
 ## 基本问题 ##
