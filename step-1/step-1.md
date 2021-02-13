@@ -1,5 +1,5 @@
 # P3 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/004.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/004.jpg)
 
 1. ごめんね　急に呼びだして
 	1. 对不起，突然把你叫来
@@ -14,13 +14,13 @@
 
 
 # P4 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/005.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/005.jpg)
 
 1. 私ね…
 	1. 我呢…
 
 # P5 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/006.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/006.jpg)
 
 1. ねえ　麻奈！
 	1. 喂，麻奈!
@@ -30,7 +30,7 @@
 	1. 嗯，与其这样还不如去吃点什么!啊?麻奈!
 
 # P6 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/007.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/007.jpg)
 
 1. うーん
 	1. 嗯
@@ -44,7 +44,7 @@
 	1. ……长濑……吗……
 
 # P7 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/008.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/008.jpg)
 
 1. まぶしいよなあつち側は
 	1. 好耀眼啊
@@ -76,7 +76,7 @@
 	1. 啊
 
 # P8 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/009.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/009.jpg)
 
 
 1. 牧野くん
@@ -100,7 +100,7 @@
 
 
 # P9 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/010.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/010.jpg)
 
 1. ちょっと　違い存在…
 	1. 有点不同的存在…
@@ -122,7 +122,7 @@
 	1. 被长濑搭话真是吓了一跳…
 
 # P10 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/011.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/011.jpg)
 
 1. だって　長瀬麻奈は　いつだって　みんなの輪の中心にいて
 	1. 因为长濑麻奈总是站在大家的圈子的中心
@@ -132,13 +132,13 @@
 	1. 另一方面，我只是很多人。
 
 # P11 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/012.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/012.jpg)
 
 1. 社長ーー！　これどこに　置けきます？
 	1. 社长!这个放在哪里?
 
 # P12 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/013.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/013.jpg)
 
 1. その辺にデキトーーに頼むよ
 	1. 在那附近　拜托你了
@@ -168,7 +168,7 @@
 	1. 哎——!
 
 # P13 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/014.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/014.jpg)
 
 1. まったく　大丈夫かな　星見プロ
 	1. 真是的　这样没问题吗　星见Pro
@@ -186,13 +186,13 @@
 	1. 但不是。
 
 # P14 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/015.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/015.jpg)
 
 1. 学園祭での長瀬　あの時の　彼女の歌の方が　ずっと響いた
 	1. 学园祭上长濑那时她的歌一直回响着
 
 # P15 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/016.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/016.jpg)
 
 1. もっと俺の胸に　響いたんだ
 	1. 也在我心中回响着。
@@ -208,12 +208,12 @@
 	1. …？可疑者…？
 
 # P16 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/017.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/017.jpg)
 
 1. よ…つと
 
 # P17 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/018.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/018.jpg)
 
 1. んーー！カラオケもいいけど
 	1. 嗯——!卡拉ok也不错
@@ -223,7 +223,7 @@
 	1. 唉，虽然谁也听不到
 
 # P18 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/019.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/019.jpg)
 
 1. 悪いね　勝手に聴かせて　もらつた
 	1. 不好意思，我擅自给你听了
@@ -245,7 +245,7 @@
 	1. 那我回去了。
 
 # P19 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/020.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/020.jpg)
 
 1. あっ　待ってくれ！
 	1. 等等!
@@ -260,7 +260,7 @@
 7.　うーーん
 
 # P20 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/021.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/021.jpg)
 
 1. 行こっかな…　でもなあ　あやしいし　どーしよ
 	1. 去吧…不过，这也太奇怪了
@@ -280,7 +280,7 @@
 	1. 牧野你知道吗?
 
 # P21 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/022.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/022.jpg)
 
 1. あ…よかったら　代わり牧野くんが行く？
 	1. 啊…可以的话牧野君代替你去吗?
@@ -293,7 +293,7 @@
 5. なんで？
 	1. 为什么?
 # P22 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/023.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/023.jpg)
 
 6. 長瀬は歌え好きだろ？
 	1. 长濑喜欢唱歌吧?
@@ -310,7 +310,7 @@
 	1. 牧野，你听我说
 
 # P23 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/024.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/024.jpg)
 
 1. 河野が風邪で　早退しちきつてよ～～
 	1. 河野因为感冒早退了哦～
@@ -322,7 +322,7 @@
 	1. 啊难道你就是长濑？
 
 # P24 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/025.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/025.jpg)
 
 1. はじめまして　私　星見プロダクションの佐伯遥子です
 	1. 初次见面，我是星见制作公司的佐伯遥子
@@ -344,7 +344,7 @@
 	1. 已经被踩了三次脚了！
 
 # P25 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/026.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/026.jpg)
 
 1. やっばり　来るんじゃなかった
 	1. 果然不应该来的
@@ -354,13 +354,13 @@
 	1. 那和我没关系…
 
 # P26 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/027.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/027.jpg)
 
 # P27 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/028.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/028.jpg)
 
 # P28 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/029.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/029.jpg)
 
 1. 長瀬さん　どう？
 	1. 长濑怎么样？
@@ -371,7 +371,7 @@
 4. 牧野くん…
 	1. 牧野君…
 # P29 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/030.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/030.jpg)
 
 1. アイドルなんて　興味ないって…それなのに　あんなに
 	1. 偶像什么的没兴趣…尽管如此
@@ -383,19 +383,19 @@
 	1. 为什么
 
 # P30 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/031.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/031.jpg)
 
 1. あそこに立ってるのが　わたしじゃないんだろう
 	1. 站在那里的不是我吧
 2. 長瀬さん…
 
 # P31 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/032.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/032.jpg)
 
 1. おはよう　牧野くん
 	1. 早上好牧野君
 # P32 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/033.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/033.jpg)
 
 2. うわっ　な　長瀬！？おはよう…？
 	1. 长濑！？早上好…？
@@ -408,7 +408,7 @@
 	1. 牧野君
 
 # P33 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/034.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/034.jpg)
 
 1. ごめんね　急に呼びだして
 	1. 对不起突然叫你
@@ -418,7 +418,7 @@
 	1. 喂牧野君…我…我呢…
 
 # P34 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/035.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/035.jpg)
 
 1. アイドルになる
 	1. 想成为成为偶像
@@ -426,7 +426,7 @@
 	1. 所以呢，希望牧野君
 
 # P35 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/036.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/036.jpg)
 
 1. マネージャーになってほしいの
 	1. 成为我的经理
@@ -434,7 +434,7 @@
 	1. 回想起来
 
 # P36 #
-![](https://github.com/TG3hit/idoly_pride_bol/blob/main/step-1/037.jpg)
+![](https://github.com/TG3hit/idoly_pride_bol/raw/main/step-1/037.jpg)
 
 1. ここからだったんだ
 	1. 是从这里开始的
