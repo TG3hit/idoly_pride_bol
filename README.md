@@ -1,4 +1,4 @@
-# IDOLY PRIDE Beginning of Lodestar 汉化项目#
+# IDOLY PRIDE Beginning of Lodestar 汉化项目 #
 汉化IDOLY PRIDE Beginning of Lodestar漫画。
 
 ## 如何阅读该漫画 ##
