@@ -1,9 +1,22 @@
+# IDOLY PRIDE 系列漫画观看指南 #
+- IDOLY PRIDE Stage of Asterism【星见十人线】
+	- 日文连载 https://comic.webnewtype.com/contents/ipsoa
+	- 汉化（提灯喵汉化组） http://manhua.dmzj.com/ldolypridestageofasterism 
+- IDOLY PRIDE Beginning of Lodestar【麻奈牧野线】【本项目】
+	- 日文连载 https://comic-walker.com/contents/detail/KDCW_CW01201912010000_68
+	- 汉化（西格默德）https://idolypri.de/comic/bol/content
+- IDOLY PRIDE On/Back STAGE【官方四格】
+	- 日文连载 https://community.idolypride.jp/posts
+	- 汉化（ICYLUNA）https://www.bilibili.com/read/readlist/rl362054
+
 # IDOLY PRIDE Beginning of Lodestar 汉化项目 #
 汉化IDOLY PRIDE Beginning of Lodestar漫画。
 
 ## 如何阅读该漫画 ##
-- 在线观看
-	1. 直接浏览每个目录对应的md文件
+- 通过镜像页面观看（推荐）
+	- 镜像页面网址：[https://idolypri.de/comic/bol/content](https://idolypri.de/comic/bol/content)
+- 在本项目页面观看
+	- 直接浏览每个目录对应的md文件
 - 本地观看
 	1. 将本项目克隆到本地；
 	2. 安装 MarkdownPad2 [MarkdownPad2](http://markdownpad.com/download.html)；
@@ -12,14 +25,12 @@
 	4. 直接打开每一集目录下对应的md文件，即可查看配有汉化文字的漫画。
 
 
-![](preview.png)
-
-<img src="https://github.com/TG3hit/idoly_pride_bol/blob/main/%E9%A2%84%E8%A7%88.png?raw=true">
-
 ## 基本问题 ##
 1. IDOLY PRIDE Beginning of Lodestar 是什么？
 	- IDOLY PRIDE Beginning of Lodestar 是 IDOLY PRIDE 的一部官方漫画，介绍麻奈的故事。
-	- 同系列的漫画还有 IDOLY PRIDE Stage of Asterism ，介绍主角团的故事；这部漫画在dmzj上有汉化版（尽管上次更新是2020年11月）。
+	- 同系列的漫画还有：
+		- IDOLY PRIDE Stage of Asterism【星见十人线】
+		- IDOLY PRIDE On/Back STAGE【官方四格】
 
 2. IDOLY PRIDE Beginning of Lodestar 的主角是谁？他们之间是什么关系？
 	- 到目前为止，主角是长濑麻奈和牧野航平。
@@ -37,8 +48,4 @@
 5. 这个项目会一直更新最新进度吗？
 	- 本项目可能会受制于版权等因素无法继续更新，也可能因为楼主个人时间安排问题无法及时更新。
 	- 本人认为，购入正版书籍是对创作者最好的支持。
-
-## 其他 ##
-
-祝各位阅读愉快。
 
