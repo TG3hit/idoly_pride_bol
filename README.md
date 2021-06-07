@@ -1,10 +1,10 @@
 # 近况
 - 本项目不再进行更新
 - 如果你想了解《偶像荣耀/IDOLY PRIDE》的相关内容，你可以
-	- 在动漫之家网站搜索`IDOLY PRIDE`或`偶像荣耀`
-	- 关注新浪微博 @IDOLYPRIDE 账号
-	- 关注bilibili @长濑琴乃 账号
-	- 加入QQ群 980653787
+	- 关注漫画更新 [IDOLYPRIDE漫画](https://app.idolypride.cn/comic-guide/ "IDOLYPRIDE漫画")
+	- 关注新浪微博 [@IDOLYPRIDE](https://weibo.com/misakabot "@IDOLYPRIDE")
+	- 关注bilibili [@长濑琴乃](https://b23.tv/Cg6qBO "@长濑琴乃")
+	- 加入QQ群 [980653787](kotono.ooo/qun "980653787")
 
 
 # IDOLY PRIDE 系列漫画观看指南 #
