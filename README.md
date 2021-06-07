@@ -1,3 +1,12 @@
+# 近况
+- 本项目不再进行更新
+- 如果你想了解《偶像荣耀/IDOLY PRIDE》的相关内容，你可以
+	- 在动漫之家网站搜索`IDOLY PRIDE`或`偶像荣耀`
+	- 关注新浪微博 @IDOLYPRIDE 账号
+	- 关注bilibili @长濑琴乃 账号
+	- 加入QQ群 980653787
+
+
 # IDOLY PRIDE 系列漫画观看指南 #
 - IDOLY PRIDE Stage of Asterism【星见十人线】
 	- 日文连载 https://comic.webnewtype.com/contents/ipsoa
